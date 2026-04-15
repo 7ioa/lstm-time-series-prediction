@@ -25,6 +25,7 @@ venv/
 ENV/
 env/
 .venv
+conda/
 
 # IDE
 .vscode/
@@ -42,12 +43,18 @@ env/
 *.sqlite
 
 # Output files
-runs/
+runs\lstm_standardscale_20260316_180341/
+runs\lstm_standardscale_20260401_113213/
 outputs/
 *.png
 *.jpg
 *.jpeg
 *.pdf
+Visualize_96_96/
+Visualize_168_124/
+Visualize_512_in/
+Visualize_test200/
+Visualize_test200(16824)/
 
 # OS
 .DS_Store
