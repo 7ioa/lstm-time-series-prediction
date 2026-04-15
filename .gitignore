@@ -36,10 +36,10 @@ env/
 # Jupyter Notebook
 .ipynb_checkpoints
 
-# Data files (optional, uncomment if needed)
-# *.csv
-# *.db
-# *.sqlite
+# Data files
+*.csv
+*.db
+*.sqlite
 
 # Output files
 runs/
